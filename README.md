@@ -1,7 +1,6 @@
 # (NeurIPS 2024) MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space
 
-[Jiangwei Weng](https://wengjiangwei.github.io/), [Zhiqiang Yan](https://scholar.google.com/citations?hl=zh-CN&user=0wale0IAAAAJ), [Jianjun Qian](http://www.patternrecognition.asia/qian/), [Ying Tai](https://scholar.google.com/citations?user=NKaiUasAAAAJ&hl=en)
-, [Jian Yang](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=), [Jun Li<sup>*</sup>](https://sites.google.com/view/junlineu/)
+[Jiangwei Weng](https://wengjiangwei.github.io/), [Zhiqiang Yan](https://scholar.google.com/citations?hl=zh-CN&user=0wale0IAAAAJ), [Ying Tai](https://scholar.google.com/citations?user=NKaiUasAAAAJ&hl=en), [Jianjun Qian](http://www.patternrecognition.asia/qian/), [Jian Yang](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=), [Jun Li<sup>*</sup>](https://sites.google.com/view/junlineu/)
 
 Nanjing University of Science and Technology & Nanjing University
 
