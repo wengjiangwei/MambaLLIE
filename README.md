@@ -26,10 +26,6 @@ This repository represents the official implementation of the paper titled "Mamb
 
 ---
 
-## Installation
-
-Please see [Conda.sh] for the installation of dependencies required to run MambaLLIE.
-
 ## Results
 <details>
 <summary><strong>Quantitative comparisons on LOL-V2-real, LOL-V2-syn, SMID, SDSD-indoor and SDSD-
