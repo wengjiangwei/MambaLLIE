@@ -6,7 +6,7 @@ Nanjing University of Science and Technology & Nanjing University
 
 
 
-[Paper](https://arxiv.org/pdf/2303.09472.pdf) | [Project Page](https://wengjiangwei.github.io/projectPage/MambaLLIE/index.html)
+[Paper](https://arxiv.org/abs/2405.16105) | [Project Page](https://wengjiangwei.github.io/projectPage/MambaLLIE/index.html)
 
 This repository represents the official implementation of the paper titled "MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space".
 
